@@ -1,0 +1,7 @@
+Detected seed instances: 139
+Foreground threshold: 60
+Minimum seed distance: 12
+Ellipse scale: 2.0
+Clip to foreground: False
+Foreground IoU: 0.7740777754272834
+Dice score: 0.872653709041418
